@@ -29,4 +29,4 @@ This dataset is suitable for:
 > **Note:** Since the data is fully synthetic, it avoids privacy issues while maintaining realistic patterns.
 
 ---
-**Source:** [Kaggle](https://www.kaggle.com/)
+**Source:** [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/kundanbedmutha/student-attendance-dataset-college-level))
