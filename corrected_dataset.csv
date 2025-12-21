@@ -1,0 +1,1001 @@
+gender,course,year,internet_access,class_type,weather,absence_reason,sleep_time
+male,pharmacy,1st year,no,offline,sunny,none,Moyen
+male,b.sc,3rd year,yes,online,rainy,none,Court
+female,pharmacy,1st year,yes,online,sunny,project work,Long
+male,b.tech,4th year,yes,offline,hot,none,Long
+female,b.tech,1st year,yes,offline,cloudy,none,Court
+male,b.com,1st year,yes,online,sunny,none,Long
+male,bca,1st year,yes,online,cloudy,none,Long
+female,bba,3rd year,yes,offline,rainy,no reason,Court
+male,ba,2nd year,no,offline,sunny,no reason,Long
+female,bba,4th year,yes,offline,cold,none,Moyen
+female,bca,1st year,yes,offline,sunny,none,Long
+male,b.tech,2nd year,yes,offline,hot,none,Moyen
+male,b.sc,3rd year,no,online,cold,travel,Court
+male,nursing,2nd year,yes,offline,sunny,none,Moyen
+female,b.sc,4th year,no,offline,cloudy,none,Long
+male,b.tech,4th year,yes,offline,rainy,sick,Moyen
+female,ba,3rd year,yes,offline,sunny,none,Long
+male,bba,3rd year,yes,online,cloudy,none,Long
+female,nursing,2nd year,yes,offline,cold,travel,Moyen
+male,diploma,3rd year,yes,offline,cloudy,none,Long
+male,ba,4th year,yes,offline,hot,none,Long
+male,diploma,1st year,yes,online,cloudy,none,Court
+male,bba,1st year,no,offline,rainy,none,Moyen
+female,b.com,2nd year,yes,offline,hot,none,Court
+male,b.com,3rd year,yes,offline,cold,none,Moyen
+female,bba,1st year,yes,offline,sunny,festival,Court
+female,bba,2nd year,no,offline,hot,none,Moyen
+female,b.com,3rd year,yes,offline,cloudy,none,Court
+male,diploma,3rd year,yes,offline,sunny,travel,Court
+female,b.tech,3rd year,yes,offline,rainy,sick,Court
+male,nursing,3rd year,no,offline,sunny,none,Court
+male,nursing,1st year,yes,offline,sunny,no reason,Court
+male,b.com,1st year,yes,offline,hot,festival,Court
+male,ba,1st year,yes,offline,cold,none,Court
+female,b.com,1st year,yes,offline,rainy,festival,Court
+male,nursing,1st year,yes,offline,rainy,none,Long
+male,diploma,2nd year,yes,online,sunny,none,Long
+male,b.com,4th year,yes,offline,cold,none,Court
+male,b.com,4th year,yes,offline,hot,none,Court
+male,b.sc,1st year,yes,offline,cloudy,none,Court
+male,b.sc,3rd year,yes,offline,hot,project work,Court
+male,diploma,2nd year,no,online,cold,none,Long
+female,b.com,4th year,yes,offline,cold,none,Court
+female,nursing,1st year,yes,offline,cloudy,none,Long
+female,b.sc,4th year,yes,offline,rainy,none,Long
+male,pharmacy,2nd year,yes,offline,hot,none,Moyen
+male,b.com,2nd year,yes,online,hot,none,Long
+female,diploma,1st year,yes,online,cold,none,Court
+female,bca,4th year,yes,offline,cold,project work,Court
+female,b.com,3rd year,yes,offline,cold,no reason,Long
+female,ba,2nd year,no,offline,sunny,none,Court
+female,b.sc,2nd year,yes,online,sunny,no reason,Court
+male,b.sc,4th year,yes,online,cloudy,none,Moyen
+female,b.com,4th year,yes,offline,sunny,project work,Court
+male,nursing,3rd year,yes,offline,hot,project work,Long
+male,ba,4th year,yes,offline,cloudy,travel,Court
+female,b.tech,3rd year,yes,offline,cold,festival,Court
+female,bca,2nd year,yes,offline,cold,travel,Court
+female,pharmacy,1st year,yes,offline,cloudy,none,Court
+female,pharmacy,1st year,no,offline,sunny,none,Long
+female,b.tech,1st year,yes,offline,cold,none,Court
+male,nursing,4th year,no,offline,hot,sick,Court
+male,ba,1st year,yes,offline,cold,none,Court
+female,bca,4th year,yes,offline,cloudy,travel,Court
+female,nursing,1st year,yes,online,cold,personal work,Long
+male,pharmacy,4th year,yes,offline,cloudy,none,Court
+female,b.sc,4th year,yes,offline,cloudy,no reason,Moyen
+male,pharmacy,3rd year,yes,online,rainy,no reason,Court
+female,b.sc,4th year,yes,online,hot,sick,Court
+male,b.com,3rd year,yes,offline,sunny,none,Moyen
+female,pharmacy,4th year,yes,online,sunny,none,Court
+male,bca,4th year,yes,online,sunny,project work,Court
+male,b.com,1st year,yes,offline,cold,none,Court
+female,b.tech,4th year,yes,online,cloudy,none,Court
+female,ba,3rd year,yes,offline,hot,none,Court
+male,b.tech,2nd year,yes,online,cold,none,Long
+female,bca,2nd year,yes,offline,cold,none,Court
+male,pharmacy,4th year,no,offline,hot,travel,Court
+female,pharmacy,3rd year,no,offline,rainy,project work,Court
+female,bca,2nd year,no,offline,cold,none,Court
+male,b.sc,2nd year,yes,online,sunny,none,Court
+female,b.tech,4th year,no,offline,rainy,none,Court
+female,nursing,3rd year,no,offline,cold,none,Court
+male,b.tech,2nd year,yes,offline,rainy,festival,Court
+male,diploma,4th year,no,online,hot,sick,Court
+female,bba,3rd year,no,offline,rainy,none,Court
+female,bca,4th year,yes,offline,cold,none,Moyen
+male,ba,2nd year,yes,offline,sunny,none,Court
+female,bba,2nd year,yes,offline,cold,sick,Court
+male,bba,3rd year,yes,online,cold,none,Moyen
+male,diploma,1st year,yes,offline,sunny,none,Court
+male,bba,1st year,yes,offline,sunny,none,Court
+male,ba,3rd year,yes,offline,cold,none,Long
+male,b.tech,2nd year,yes,offline,cold,none,Long
+female,nursing,3rd year,yes,offline,cold,none,Court
+female,b.com,1st year,yes,online,hot,none,Court
+female,ba,3rd year,yes,online,sunny,personal work,Moyen
+female,nursing,4th year,yes,offline,cloudy,project work,Court
+male,ba,1st year,no,offline,sunny,personal work,Court
+female,bba,1st year,yes,online,hot,sick,Moyen
+female,bca,1st year,yes,offline,rainy,none,Court
+male,b.sc,2nd year,yes,offline,cold,festival,Long
+male,b.com,4th year,no,offline,cloudy,project work,Moyen
+female,b.com,1st year,yes,offline,cloudy,project work,Moyen
+female,bba,2nd year,yes,offline,cloudy,none,Moyen
+male,bca,4th year,yes,offline,rainy,festival,Long
+male,bca,1st year,yes,online,cloudy,none,Court
+female,diploma,2nd year,yes,online,rainy,none,Long
+female,ba,1st year,yes,offline,sunny,project work,Court
+female,diploma,2nd year,no,offline,cloudy,none,Court
+male,bca,1st year,yes,online,cold,project work,Court
+female,b.sc,3rd year,yes,offline,rainy,none,Court
+male,diploma,4th year,yes,online,cloudy,none,Moyen
+male,b.tech,3rd year,yes,offline,sunny,none,Moyen
+male,b.sc,1st year,yes,online,rainy,none,Moyen
+female,pharmacy,2nd year,yes,online,sunny,no reason,Court
+female,ba,3rd year,yes,offline,hot,none,Long
+female,nursing,3rd year,yes,offline,rainy,none,Court
+male,ba,1st year,no,online,cold,none,Court
+male,nursing,3rd year,no,online,sunny,none,Long
+female,ba,3rd year,yes,offline,hot,none,Court
+female,b.com,1st year,yes,offline,rainy,travel,Court
+male,diploma,3rd year,yes,offline,cloudy,travel,Court
+male,ba,1st year,yes,offline,rainy,festival,Court
+male,bba,1st year,yes,offline,cold,no reason,Moyen
+female,b.tech,1st year,yes,offline,rainy,project work,Court
+female,b.tech,2nd year,yes,offline,rainy,festival,Moyen
+male,b.tech,1st year,yes,offline,cloudy,sick,Court
+male,ba,4th year,no,offline,sunny,none,Moyen
+female,b.tech,4th year,yes,offline,hot,project work,Court
+male,nursing,2nd year,no,offline,rainy,project work,Court
+male,b.sc,1st year,yes,offline,cloudy,none,Court
+female,b.tech,2nd year,yes,online,cold,none,Court
+male,ba,3rd year,yes,offline,sunny,none,Long
+female,b.com,4th year,yes,offline,sunny,none,Long
+female,b.com,4th year,yes,offline,rainy,none,Moyen
+female,diploma,4th year,no,offline,rainy,project work,Court
+male,b.tech,2nd year,yes,offline,cloudy,none,Court
+male,bca,2nd year,no,offline,cloudy,personal work,Long
+male,bba,1st year,yes,offline,hot,none,Court
+male,bca,3rd year,yes,offline,sunny,none,Moyen
+female,bca,1st year,yes,offline,hot,none,Long
+male,nursing,1st year,yes,offline,rainy,festival,Moyen
+female,b.tech,4th year,no,offline,cold,none,Moyen
+female,nursing,3rd year,yes,offline,cold,project work,Moyen
+female,pharmacy,2nd year,yes,online,cold,none,Court
+female,pharmacy,2nd year,yes,offline,cloudy,none,Moyen
+male,ba,4th year,yes,offline,hot,festival,Court
+male,ba,1st year,yes,offline,rainy,no reason,Court
+female,nursing,3rd year,yes,offline,sunny,none,Long
+female,b.com,3rd year,yes,offline,rainy,none,Court
+male,diploma,2nd year,yes,online,cloudy,project work,Long
+male,b.tech,2nd year,yes,online,cold,none,Long
+female,ba,1st year,yes,offline,hot,personal work,Court
+female,b.sc,4th year,no,online,rainy,none,Court
+male,bba,2nd year,yes,online,cold,none,Court
+female,b.tech,1st year,yes,online,cloudy,none,Moyen
+male,nursing,1st year,no,online,cloudy,none,Moyen
+female,ba,1st year,yes,offline,rainy,none,Court
+female,ba,2nd year,yes,online,rainy,no reason,Court
+male,b.sc,4th year,yes,offline,hot,none,Long
+male,pharmacy,1st year,yes,offline,sunny,none,Moyen
+male,nursing,4th year,no,online,cloudy,none,Court
+female,bba,3rd year,no,offline,sunny,none,Long
+male,ba,4th year,yes,offline,hot,none,Moyen
+male,bba,3rd year,yes,online,cold,none,Court
+male,pharmacy,4th year,no,offline,cloudy,none,Moyen
+male,b.sc,3rd year,yes,offline,cloudy,none,Long
+male,diploma,4th year,no,offline,hot,no reason,Moyen
+female,pharmacy,1st year,yes,offline,cloudy,no reason,Court
+male,diploma,4th year,yes,online,cloudy,none,Long
+male,nursing,1st year,no,offline,hot,none,Moyen
+male,pharmacy,1st year,yes,offline,sunny,none,Court
+male,b.tech,3rd year,yes,offline,sunny,none,Court
+male,b.com,2nd year,yes,offline,rainy,none,Long
+male,b.sc,1st year,yes,offline,cloudy,none,Court
+male,b.tech,2nd year,yes,offline,hot,none,Court
+male,bca,2nd year,no,offline,cold,none,Court
+female,b.tech,3rd year,no,offline,hot,travel,Court
+male,diploma,2nd year,yes,offline,rainy,none,Moyen
+female,bca,1st year,yes,offline,sunny,project work,Court
+female,nursing,2nd year,no,offline,cold,none,Long
+female,b.sc,2nd year,no,offline,hot,personal work,Long
+male,diploma,4th year,yes,offline,cold,none,Moyen
+female,diploma,3rd year,yes,offline,sunny,none,Long
+male,b.tech,4th year,yes,offline,rainy,travel,Moyen
+male,b.com,2nd year,yes,offline,cloudy,none,Moyen
+male,b.com,2nd year,no,offline,sunny,none,Court
+female,bca,1st year,yes,offline,rainy,none,Court
+female,bca,2nd year,yes,offline,cold,none,Court
+male,bba,3rd year,no,online,cold,personal work,Long
+male,b.com,2nd year,yes,offline,rainy,none,Long
+female,bca,2nd year,yes,online,hot,festival,Court
+male,bca,2nd year,no,offline,cold,sick,Moyen
+male,nursing,4th year,yes,online,sunny,none,Moyen
+female,b.tech,4th year,yes,offline,sunny,none,Long
+male,nursing,1st year,yes,offline,cloudy,none,Moyen
+male,bca,4th year,yes,offline,sunny,none,Moyen
+male,nursing,3rd year,yes,offline,rainy,personal work,Court
+male,bba,3rd year,no,offline,cloudy,none,Moyen
+female,bca,1st year,yes,offline,hot,none,Long
+female,b.tech,3rd year,no,offline,sunny,none,Court
+male,b.sc,2nd year,yes,online,sunny,none,Court
+female,bba,1st year,yes,online,cloudy,none,Long
+male,b.com,1st year,yes,offline,hot,none,Moyen
+male,nursing,1st year,yes,online,cloudy,travel,Long
+male,diploma,2nd year,yes,online,hot,none,Court
+female,nursing,3rd year,yes,offline,cloudy,festival,Court
+female,nursing,3rd year,yes,offline,hot,none,Moyen
+female,diploma,1st year,no,offline,sunny,none,Court
+male,b.sc,2nd year,no,offline,cold,none,Long
+female,nursing,3rd year,yes,offline,cloudy,none,Moyen
+male,nursing,1st year,yes,offline,cloudy,none,Court
+female,b.sc,1st year,yes,offline,cloudy,none,Long
+male,b.tech,1st year,yes,offline,hot,none,Long
+female,ba,1st year,no,offline,cold,none,Moyen
+male,b.com,3rd year,no,offline,hot,none,Moyen
+male,ba,3rd year,yes,offline,cloudy,none,Court
+male,ba,2nd year,yes,online,cold,none,Court
+male,ba,4th year,yes,offline,rainy,none,Moyen
+female,b.tech,4th year,yes,online,hot,none,Moyen
+female,b.tech,2nd year,yes,offline,hot,travel,Court
+female,ba,1st year,yes,offline,cold,none,Long
+female,b.tech,2nd year,yes,offline,cloudy,none,Long
+female,diploma,2nd year,yes,offline,hot,personal work,Court
+male,ba,3rd year,yes,offline,cold,no reason,Court
+male,bba,1st year,yes,offline,cold,none,Long
+female,bba,3rd year,yes,offline,cloudy,project work,Court
+male,bba,4th year,no,offline,cold,none,Moyen
+male,ba,3rd year,yes,offline,rainy,none,Long
+female,bca,4th year,no,offline,cold,none,Long
+female,diploma,1st year,yes,online,rainy,travel,Court
+male,pharmacy,4th year,yes,online,cold,travel,Court
+male,ba,2nd year,yes,offline,cold,none,Court
+male,diploma,3rd year,yes,offline,cloudy,none,Court
+male,bba,2nd year,yes,online,sunny,none,Long
+female,pharmacy,2nd year,yes,offline,cold,sick,Long
+male,diploma,4th year,yes,offline,sunny,no reason,Moyen
+female,diploma,2nd year,no,offline,sunny,none,Court
+female,b.com,3rd year,yes,online,cloudy,none,Long
+male,b.com,1st year,yes,offline,sunny,none,Long
+female,ba,3rd year,yes,offline,hot,sick,Court
+female,diploma,1st year,yes,offline,sunny,none,Court
+female,ba,4th year,yes,offline,cloudy,none,Moyen
+male,nursing,2nd year,yes,offline,rainy,none,Long
+female,diploma,2nd year,yes,online,hot,festival,Court
+male,nursing,3rd year,yes,offline,rainy,no reason,Court
+male,nursing,3rd year,yes,offline,cold,none,Long
+male,pharmacy,4th year,yes,offline,hot,no reason,Court
+female,b.com,4th year,yes,online,rainy,none,Court
+male,b.sc,2nd year,yes,offline,sunny,sick,Long
+male,nursing,2nd year,yes,offline,sunny,none,Long
+female,b.tech,1st year,no,offline,sunny,project work,Court
+female,bba,2nd year,yes,offline,sunny,no reason,Long
+female,nursing,3rd year,yes,offline,rainy,project work,Court
+male,diploma,3rd year,yes,offline,hot,none,Moyen
+female,b.tech,2nd year,yes,offline,sunny,none,Court
+male,bba,4th year,yes,offline,cloudy,personal work,Court
+male,b.tech,2nd year,yes,offline,sunny,festival,Court
+male,diploma,1st year,no,online,rainy,none,Long
+female,diploma,4th year,no,offline,cold,none,Long
+male,bca,4th year,no,offline,sunny,none,Long
+male,b.tech,2nd year,yes,offline,hot,travel,Court
+female,bca,4th year,yes,offline,cloudy,sick,Court
+male,bba,1st year,yes,offline,sunny,none,Moyen
+female,b.sc,4th year,yes,offline,cold,travel,Court
+female,bca,1st year,no,online,rainy,none,Court
+male,ba,3rd year,yes,offline,cloudy,project work,Court
+female,b.tech,1st year,yes,offline,hot,no reason,Moyen
+female,bba,2nd year,yes,offline,sunny,none,Court
+male,pharmacy,1st year,yes,offline,sunny,none,Court
+female,b.com,4th year,yes,offline,rainy,no reason,Long
+male,b.tech,3rd year,no,online,sunny,sick,Moyen
+female,pharmacy,4th year,yes,offline,cloudy,festival,Long
+female,b.tech,4th year,yes,online,hot,personal work,Long
+female,nursing,1st year,yes,online,cloudy,none,Court
+female,bca,1st year,no,online,cloudy,none,Court
+male,pharmacy,2nd year,no,online,cloudy,travel,Court
+female,nursing,3rd year,yes,offline,cold,no reason,Court
+male,b.sc,4th year,yes,online,cloudy,none,Court
+female,pharmacy,3rd year,yes,offline,hot,personal work,Moyen
+female,b.sc,4th year,yes,offline,cold,none,Long
+male,bca,2nd year,no,offline,cold,no reason,Moyen
+male,b.com,3rd year,yes,offline,cloudy,sick,Court
+male,bca,2nd year,yes,online,cold,none,Long
+female,bca,3rd year,yes,offline,sunny,none,Court
+male,pharmacy,3rd year,yes,offline,cloudy,none,Moyen
+female,ba,2nd year,no,online,cloudy,none,Court
+female,diploma,2nd year,yes,online,hot,none,Court
+male,b.tech,3rd year,yes,online,cold,none,Court
+male,diploma,1st year,yes,online,cloudy,none,Court
+female,pharmacy,3rd year,yes,offline,cloudy,festival,Court
+male,b.sc,3rd year,yes,offline,rainy,personal work,Moyen
+male,b.tech,4th year,yes,offline,hot,none,Long
+female,ba,3rd year,yes,offline,hot,personal work,Moyen
+male,nursing,1st year,yes,offline,cloudy,festival,Court
+female,diploma,1st year,no,online,cold,none,Long
+male,diploma,1st year,no,offline,rainy,personal work,Court
+male,b.com,4th year,no,online,cold,none,Moyen
+male,nursing,1st year,yes,offline,sunny,none,Long
+male,bca,1st year,no,offline,hot,festival,Moyen
+female,bca,2nd year,yes,online,cold,none,Moyen
+male,bba,2nd year,yes,online,cloudy,none,Court
+female,nursing,1st year,yes,offline,rainy,none,Moyen
+female,ba,4th year,yes,online,cold,none,Court
+female,diploma,3rd year,yes,offline,hot,personal work,Moyen
+female,bba,2nd year,yes,offline,hot,none,Court
+male,nursing,3rd year,yes,offline,sunny,no reason,Court
+female,b.sc,2nd year,yes,online,hot,no reason,Moyen
+male,b.com,2nd year,yes,online,cloudy,none,Court
+male,b.sc,4th year,no,offline,cloudy,none,Moyen
+female,ba,2nd year,no,offline,sunny,project work,Court
+female,nursing,3rd year,yes,offline,cloudy,none,Court
+female,b.sc,4th year,yes,online,sunny,none,Court
+female,diploma,2nd year,no,offline,sunny,none,Moyen
+female,bca,1st year,yes,offline,hot,personal work,Court
+male,bca,3rd year,yes,offline,rainy,no reason,Moyen
+male,bca,1st year,yes,offline,hot,none,Long
+female,pharmacy,3rd year,yes,offline,rainy,none,Court
+male,ba,1st year,yes,offline,rainy,none,Court
+male,pharmacy,4th year,yes,online,cloudy,none,Moyen
+female,bca,3rd year,yes,offline,sunny,personal work,Court
+female,nursing,3rd year,yes,offline,hot,personal work,Moyen
+female,bba,2nd year,yes,online,sunny,none,Court
+male,nursing,1st year,yes,online,rainy,travel,Court
+female,diploma,3rd year,yes,offline,sunny,none,Moyen
+male,b.sc,1st year,yes,offline,rainy,no reason,Court
+male,bba,1st year,yes,offline,rainy,project work,Court
+male,b.tech,2nd year,yes,offline,sunny,none,Court
+female,bca,4th year,no,offline,sunny,none,Court
+male,b.sc,4th year,yes,offline,rainy,none,Moyen
+male,diploma,4th year,no,online,cold,none,Court
+female,diploma,3rd year,no,offline,cold,none,Court
+male,b.sc,2nd year,yes,offline,cloudy,none,Long
+female,bba,3rd year,yes,offline,cold,none,Court
+male,b.tech,2nd year,yes,online,cloudy,none,Court
+female,bca,4th year,no,offline,sunny,none,Long
+male,nursing,3rd year,yes,offline,hot,no reason,Court
+male,diploma,4th year,yes,online,rainy,none,Court
+male,b.sc,3rd year,yes,online,hot,none,Court
+female,bca,4th year,yes,online,cold,festival,Moyen
+male,ba,2nd year,yes,offline,cold,none,Long
+male,b.sc,4th year,no,online,sunny,none,Moyen
+male,bca,4th year,no,online,sunny,personal work,Court
+male,bba,4th year,yes,offline,cloudy,none,Court
+female,bba,1st year,yes,online,rainy,none,Court
+female,bba,3rd year,yes,online,cloudy,none,Moyen
+female,b.sc,3rd year,yes,online,sunny,none,Long
+female,b.tech,4th year,yes,offline,hot,sick,Moyen
+male,b.sc,3rd year,yes,online,cold,none,Court
+male,b.com,3rd year,yes,offline,cold,none,Moyen
+male,b.com,4th year,yes,offline,hot,none,Court
+male,b.com,4th year,no,online,hot,none,Court
+male,nursing,1st year,yes,offline,sunny,sick,Moyen
+male,diploma,3rd year,yes,offline,cloudy,personal work,Long
+female,pharmacy,1st year,no,offline,cold,project work,Long
+male,nursing,2nd year,yes,offline,rainy,none,Long
+female,b.tech,2nd year,yes,offline,hot,none,Court
+male,ba,1st year,yes,offline,sunny,project work,Moyen
+male,diploma,4th year,no,offline,hot,none,Long
+female,b.tech,1st year,yes,online,sunny,none,Long
+female,bca,3rd year,no,offline,sunny,sick,Court
+male,ba,3rd year,yes,online,cold,travel,Court
+male,bba,1st year,yes,offline,sunny,none,Moyen
+female,b.tech,2nd year,yes,online,hot,none,Moyen
+male,b.com,3rd year,no,offline,hot,none,Court
+female,b.sc,3rd year,yes,offline,cloudy,none,Court
+female,b.com,1st year,yes,offline,cold,none,Court
+male,nursing,1st year,yes,offline,hot,festival,Moyen
+male,b.sc,4th year,yes,offline,cloudy,personal work,Long
+male,b.sc,3rd year,yes,offline,cloudy,none,Court
+male,b.sc,4th year,yes,offline,rainy,none,Court
+male,b.sc,3rd year,yes,online,sunny,none,Court
+female,b.sc,2nd year,yes,offline,cloudy,none,Long
+female,bca,1st year,yes,online,cold,none,Long
+male,b.sc,3rd year,yes,online,sunny,none,Long
+female,b.tech,4th year,yes,offline,rainy,personal work,Court
+male,b.tech,3rd year,yes,offline,cold,none,Moyen
+female,diploma,4th year,yes,online,hot,project work,Court
+female,ba,4th year,yes,online,cloudy,none,Long
+male,bca,1st year,yes,offline,cloudy,no reason,Court
+male,diploma,3rd year,yes,offline,rainy,none,Moyen
+male,ba,1st year,yes,offline,rainy,sick,Moyen
+male,nursing,3rd year,yes,offline,sunny,none,Moyen
+male,diploma,2nd year,no,online,rainy,sick,Long
+male,pharmacy,2nd year,yes,online,cloudy,none,Long
+female,nursing,1st year,yes,offline,hot,none,Court
+female,bca,1st year,yes,offline,hot,none,Court
+male,ba,1st year,yes,offline,cloudy,project work,Long
+male,ba,1st year,yes,online,cold,festival,Court
+male,nursing,2nd year,yes,offline,rainy,none,Court
+male,b.com,1st year,yes,online,hot,none,Moyen
+female,bba,4th year,yes,online,rainy,festival,Long
+female,b.tech,2nd year,yes,offline,hot,none,Moyen
+male,b.tech,4th year,yes,online,cold,none,Moyen
+female,b.tech,3rd year,yes,offline,cloudy,none,Moyen
+female,b.com,1st year,yes,online,sunny,none,Court
+female,bba,4th year,yes,online,sunny,none,Long
+female,pharmacy,2nd year,yes,offline,hot,none,Moyen
+male,ba,3rd year,yes,offline,hot,none,Court
+female,pharmacy,4th year,yes,offline,cold,none,Long
+male,pharmacy,4th year,yes,offline,cold,none,Court
+male,bba,4th year,no,online,rainy,project work,Moyen
+female,diploma,3rd year,yes,offline,sunny,festival,Moyen
+female,bca,4th year,yes,offline,cold,none,Moyen
+female,bba,3rd year,yes,offline,rainy,personal work,Moyen
+female,pharmacy,3rd year,yes,offline,cold,none,Moyen
+female,bba,4th year,yes,online,sunny,none,Court
+female,bca,4th year,yes,offline,sunny,none,Court
+female,bca,1st year,yes,offline,hot,no reason,Court
+male,b.tech,2nd year,yes,offline,rainy,travel,Court
+female,b.sc,4th year,yes,offline,sunny,none,Long
+female,pharmacy,1st year,yes,online,rainy,none,Moyen
+male,b.com,4th year,yes,offline,cloudy,none,Court
+male,bca,3rd year,yes,offline,cold,project work,Court
+male,bca,1st year,yes,offline,sunny,none,Court
+male,b.sc,1st year,yes,offline,cloudy,no reason,Moyen
+male,nursing,2nd year,no,offline,cloudy,none,Moyen
+male,b.tech,2nd year,yes,offline,cloudy,none,Court
+female,diploma,4th year,no,offline,sunny,sick,Moyen
+female,b.com,4th year,yes,offline,sunny,none,Long
+female,bca,1st year,no,offline,cloudy,festival,Court
+female,bba,3rd year,yes,offline,hot,none,Moyen
+female,bca,4th year,yes,online,cold,festival,Long
+male,bba,1st year,yes,offline,rainy,none,Long
+male,nursing,3rd year,yes,offline,sunny,none,Court
+female,pharmacy,1st year,yes,offline,hot,none,Court
+female,pharmacy,1st year,yes,offline,hot,travel,Court
+male,bca,1st year,yes,online,rainy,project work,Moyen
+female,bca,2nd year,yes,offline,cold,project work,Long
+female,b.tech,4th year,yes,online,sunny,travel,Court
+male,b.sc,2nd year,yes,offline,hot,none,Moyen
+female,b.sc,3rd year,yes,offline,rainy,none,Court
+female,nursing,4th year,no,offline,hot,festival,Court
+male,nursing,1st year,yes,offline,sunny,none,Moyen
+female,bba,1st year,yes,online,cloudy,personal work,Moyen
+female,pharmacy,1st year,yes,offline,cloudy,personal work,Court
+male,pharmacy,1st year,yes,offline,rainy,no reason,Court
+female,ba,4th year,no,offline,sunny,none,Moyen
+male,nursing,2nd year,yes,online,sunny,project work,Moyen
+male,b.sc,3rd year,yes,online,rainy,project work,Long
+female,bba,4th year,yes,offline,cold,personal work,Court
+male,bca,3rd year,yes,offline,cold,none,Court
+female,bca,4th year,yes,offline,cloudy,none,Long
+female,nursing,2nd year,yes,online,cold,none,Long
+male,ba,4th year,yes,online,cold,personal work,Long
+female,b.tech,2nd year,yes,offline,cloudy,none,Court
+male,bba,1st year,yes,offline,cloudy,none,Court
+female,ba,2nd year,no,offline,cold,none,Long
+female,b.com,1st year,no,offline,sunny,no reason,Court
+male,b.com,4th year,yes,offline,sunny,none,Court
+female,ba,1st year,yes,offline,hot,none,Moyen
+male,b.tech,2nd year,yes,offline,rainy,none,Court
+female,b.tech,2nd year,no,offline,hot,sick,Court
+female,pharmacy,1st year,no,online,cloudy,sick,Moyen
+female,bba,4th year,yes,offline,sunny,none,Moyen
+male,pharmacy,4th year,yes,offline,rainy,project work,Court
+male,bca,4th year,yes,online,rainy,none,Court
+male,diploma,2nd year,yes,online,cold,none,Court
+female,bca,2nd year,yes,online,hot,sick,Long
+female,pharmacy,1st year,yes,offline,sunny,none,Moyen
+male,pharmacy,2nd year,yes,offline,hot,none,Court
+male,b.com,4th year,no,offline,hot,none,Moyen
+female,nursing,4th year,no,offline,sunny,none,Court
+female,nursing,1st year,yes,online,cold,personal work,Long
+female,bca,4th year,yes,offline,hot,personal work,Court
+male,b.sc,3rd year,yes,offline,cloudy,none,Long
+female,pharmacy,4th year,no,offline,sunny,none,Moyen
+female,b.com,2nd year,no,offline,sunny,festival,Moyen
+female,b.com,2nd year,no,online,cold,none,Court
+male,b.sc,3rd year,yes,offline,sunny,project work,Court
+female,ba,2nd year,yes,offline,cloudy,project work,Moyen
+male,nursing,1st year,yes,offline,rainy,sick,Moyen
+female,nursing,4th year,yes,offline,cloudy,none,Long
+female,bba,2nd year,yes,offline,hot,none,Moyen
+male,b.com,4th year,no,offline,rainy,travel,Long
+female,ba,3rd year,yes,offline,hot,festival,Court
+male,b.tech,2nd year,yes,offline,sunny,none,Long
+female,b.tech,2nd year,yes,online,cold,none,Court
+female,nursing,1st year,no,online,rainy,none,Moyen
+female,b.sc,2nd year,yes,offline,sunny,none,Moyen
+male,bba,3rd year,no,offline,hot,none,Moyen
+female,pharmacy,1st year,yes,online,hot,none,Court
+male,b.sc,1st year,yes,offline,cold,personal work,Court
+female,pharmacy,1st year,no,offline,cold,none,Court
+female,diploma,1st year,yes,online,hot,travel,Long
+female,b.com,1st year,no,offline,rainy,none,Long
+male,pharmacy,2nd year,yes,offline,rainy,project work,Long
+female,bba,2nd year,yes,offline,cold,none,Moyen
+male,b.com,4th year,yes,offline,hot,none,Court
+male,nursing,2nd year,yes,online,hot,none,Court
+female,b.tech,1st year,no,offline,cold,sick,Long
+female,b.tech,3rd year,no,offline,hot,none,Long
+male,ba,4th year,yes,online,sunny,festival,Moyen
+female,pharmacy,4th year,yes,offline,cold,sick,Court
+male,b.com,4th year,no,offline,cold,travel,Moyen
+female,diploma,4th year,no,online,cold,personal work,Court
+male,bca,3rd year,yes,online,rainy,none,Long
+male,b.sc,1st year,yes,offline,rainy,none,Court
+female,b.sc,1st year,yes,offline,hot,none,Court
+male,b.sc,2nd year,yes,offline,cold,none,Court
+male,b.tech,3rd year,yes,offline,sunny,none,Moyen
+male,bba,4th year,no,online,hot,no reason,Court
+male,bca,1st year,yes,online,rainy,sick,Court
+female,nursing,3rd year,yes,offline,cloudy,none,Court
+female,b.tech,4th year,yes,online,rainy,none,Court
+male,nursing,4th year,yes,offline,hot,none,Moyen
+female,bba,1st year,yes,offline,cold,none,Moyen
+female,nursing,1st year,yes,online,hot,none,Long
+male,bba,4th year,yes,offline,cloudy,none,Court
+female,bca,3rd year,no,offline,sunny,no reason,Court
+female,bca,2nd year,yes,offline,rainy,no reason,Court
+female,diploma,4th year,yes,offline,sunny,none,Long
+male,b.sc,4th year,yes,offline,sunny,none,Moyen
+female,ba,1st year,yes,offline,hot,sick,Court
+male,diploma,1st year,yes,offline,sunny,none,Court
+male,pharmacy,4th year,no,offline,cold,none,Court
+male,b.com,1st year,yes,offline,sunny,none,Moyen
+female,pharmacy,4th year,yes,offline,sunny,none,Court
+female,b.tech,3rd year,yes,online,cloudy,none,Court
+male,ba,2nd year,yes,offline,sunny,none,Moyen
+male,bba,1st year,yes,online,cold,no reason,Long
+female,bca,3rd year,yes,offline,hot,none,Long
+female,ba,3rd year,yes,offline,cloudy,project work,Court
+female,b.sc,1st year,no,online,cold,none,Court
+female,bca,3rd year,yes,offline,cloudy,no reason,Long
+female,bca,4th year,yes,offline,cloudy,travel,Court
+female,pharmacy,1st year,yes,offline,rainy,festival,Court
+female,bca,1st year,yes,offline,cloudy,festival,Moyen
+female,pharmacy,1st year,yes,offline,sunny,personal work,Moyen
+male,diploma,3rd year,yes,offline,cold,project work,Court
+male,b.tech,1st year,yes,offline,hot,none,Moyen
+female,b.sc,2nd year,yes,offline,hot,none,Long
+female,pharmacy,1st year,no,offline,sunny,none,Moyen
+female,bca,2nd year,yes,offline,cloudy,none,Long
+female,bca,4th year,no,offline,cloudy,none,Moyen
+male,bca,4th year,yes,offline,sunny,none,Long
+female,ba,4th year,yes,offline,cold,none,Long
+female,b.tech,2nd year,yes,online,cold,sick,Court
+female,b.com,3rd year,no,online,rainy,none,Court
+male,bca,4th year,yes,offline,hot,sick,Court
+male,b.com,3rd year,yes,offline,rainy,none,Court
+male,b.tech,3rd year,yes,online,cloudy,none,Court
+male,pharmacy,1st year,yes,online,cloudy,sick,Court
+male,diploma,2nd year,yes,offline,rainy,none,Court
+female,b.com,2nd year,yes,offline,sunny,project work,Court
+female,diploma,3rd year,yes,offline,cold,travel,Long
+female,b.com,2nd year,no,offline,cold,none,Long
+male,ba,1st year,yes,online,cold,none,Long
+female,b.tech,3rd year,yes,offline,hot,none,Long
+male,b.tech,2nd year,yes,offline,cold,sick,Court
+male,bca,4th year,no,offline,cold,none,Court
+male,bba,1st year,yes,offline,sunny,festival,Moyen
+female,pharmacy,1st year,yes,offline,sunny,none,Moyen
+male,bba,4th year,yes,online,hot,festival,Court
+male,b.com,4th year,yes,offline,cold,none,Long
+female,pharmacy,1st year,yes,online,cold,none,Court
+female,nursing,3rd year,yes,online,sunny,festival,Court
+male,pharmacy,1st year,yes,online,cold,none,Moyen
+male,b.com,1st year,yes,online,rainy,none,Long
+female,b.tech,2nd year,yes,online,cloudy,travel,Moyen
+male,bca,2nd year,no,offline,rainy,none,Court
+female,nursing,2nd year,yes,offline,sunny,travel,Court
+male,bba,4th year,yes,offline,rainy,sick,Court
+male,b.com,2nd year,yes,offline,cold,sick,Court
+female,nursing,4th year,yes,offline,cloudy,travel,Court
+female,bba,4th year,yes,online,sunny,sick,Moyen
+male,b.com,1st year,yes,offline,hot,none,Moyen
+female,nursing,1st year,yes,offline,cloudy,none,Moyen
+female,b.com,3rd year,yes,offline,rainy,none,Long
+female,bca,1st year,yes,offline,hot,none,Moyen
+female,pharmacy,2nd year,yes,online,cloudy,project work,Court
+male,nursing,4th year,yes,offline,cloudy,none,Court
+female,b.sc,1st year,yes,online,cloudy,festival,Court
+female,b.tech,4th year,no,offline,cold,none,Long
+female,bca,4th year,yes,offline,cold,none,Long
+female,b.tech,2nd year,yes,online,rainy,none,Court
+male,diploma,3rd year,yes,offline,cold,sick,Long
+male,b.com,3rd year,no,offline,hot,sick,Court
+female,nursing,3rd year,yes,offline,sunny,none,Court
+female,bca,1st year,yes,online,sunny,festival,Long
+male,bca,3rd year,yes,online,cold,none,Court
+male,b.tech,3rd year,yes,offline,rainy,none,Moyen
+female,pharmacy,2nd year,yes,offline,cloudy,personal work,Court
+male,ba,1st year,no,online,cold,none,Moyen
+female,b.tech,3rd year,no,offline,cloudy,sick,Moyen
+male,pharmacy,4th year,no,offline,cloudy,none,Court
+male,nursing,4th year,no,online,cold,none,Court
+male,b.tech,2nd year,yes,offline,cloudy,project work,Moyen
+female,b.tech,4th year,yes,online,sunny,no reason,Court
+female,b.tech,4th year,yes,offline,sunny,travel,Court
+male,b.sc,1st year,yes,offline,sunny,none,Long
+male,nursing,3rd year,no,offline,cloudy,travel,Court
+female,bca,1st year,yes,offline,cold,travel,Court
+female,nursing,2nd year,yes,online,sunny,none,Long
+male,bca,3rd year,yes,offline,rainy,no reason,Court
+male,b.tech,2nd year,yes,offline,rainy,none,Moyen
+female,bba,4th year,yes,offline,cold,none,Court
+female,b.sc,4th year,yes,online,cold,none,Moyen
+male,ba,4th year,yes,offline,sunny,none,Court
+male,b.sc,4th year,no,offline,rainy,sick,Moyen
+male,b.sc,4th year,yes,offline,cloudy,none,Moyen
+male,nursing,2nd year,yes,online,cloudy,none,Court
+male,ba,3rd year,yes,offline,hot,travel,Moyen
+female,b.com,2nd year,yes,offline,rainy,no reason,Court
+female,nursing,1st year,yes,offline,cloudy,festival,Court
+male,nursing,2nd year,yes,offline,cloudy,project work,Moyen
+male,diploma,1st year,yes,offline,hot,personal work,Court
+male,ba,2nd year,yes,offline,rainy,none,Court
+male,ba,4th year,yes,offline,hot,none,Moyen
+female,b.sc,4th year,yes,offline,sunny,none,Court
+female,b.tech,4th year,yes,offline,cold,festival,Long
+female,pharmacy,4th year,yes,online,cold,sick,Moyen
+female,b.com,2nd year,no,offline,cloudy,none,Moyen
+male,diploma,2nd year,yes,offline,sunny,travel,Moyen
+female,nursing,1st year,no,offline,cold,none,Moyen
+female,nursing,1st year,yes,online,cold,sick,Moyen
+female,bca,4th year,yes,offline,rainy,personal work,Court
+male,bba,3rd year,yes,offline,hot,travel,Moyen
+male,diploma,1st year,yes,online,cloudy,no reason,Court
+female,bca,2nd year,yes,offline,hot,none,Long
+male,b.tech,2nd year,yes,offline,cloudy,travel,Court
+female,diploma,2nd year,yes,offline,cloudy,travel,Long
+male,bca,4th year,yes,offline,rainy,festival,Court
+female,diploma,3rd year,yes,offline,hot,travel,Court
+male,b.com,4th year,no,online,cold,none,Court
+male,pharmacy,3rd year,yes,online,sunny,festival,Moyen
+female,pharmacy,2nd year,no,offline,cloudy,festival,Moyen
+male,b.tech,1st year,yes,offline,sunny,none,Court
+male,diploma,1st year,yes,offline,cold,none,Moyen
+female,b.tech,1st year,yes,online,hot,festival,Court
+female,pharmacy,4th year,yes,offline,cloudy,none,Court
+male,nursing,1st year,yes,offline,hot,sick,Court
+male,nursing,2nd year,yes,offline,cloudy,none,Court
+female,nursing,4th year,yes,offline,cloudy,personal work,Moyen
+male,diploma,3rd year,yes,offline,rainy,festival,Long
+female,pharmacy,3rd year,yes,offline,hot,none,Court
+female,pharmacy,2nd year,yes,offline,rainy,travel,Court
+female,b.tech,3rd year,yes,online,sunny,personal work,Court
+female,bca,1st year,yes,offline,hot,none,Court
+male,bba,4th year,no,online,rainy,none,Court
+male,nursing,1st year,no,offline,rainy,no reason,Moyen
+male,diploma,4th year,no,offline,rainy,festival,Court
+male,b.com,2nd year,yes,online,sunny,none,Court
+female,diploma,4th year,yes,offline,sunny,none,Court
+female,ba,3rd year,yes,online,rainy,none,Long
+male,nursing,2nd year,yes,online,cloudy,none,Court
+female,pharmacy,2nd year,yes,offline,rainy,none,Court
+male,bca,4th year,yes,offline,cold,no reason,Court
+male,pharmacy,2nd year,yes,offline,cloudy,none,Moyen
+male,bba,4th year,yes,online,cold,none,Court
+male,b.sc,4th year,no,online,cold,none,Moyen
+male,bca,4th year,no,offline,cloudy,none,Court
+male,pharmacy,2nd year,no,online,hot,none,Moyen
+female,bca,2nd year,yes,offline,cloudy,none,Court
+male,b.sc,2nd year,yes,online,hot,none,Court
+female,bca,3rd year,no,offline,cloudy,travel,Court
+male,ba,4th year,yes,online,cold,none,Long
+female,b.tech,3rd year,no,online,rainy,none,Long
+female,pharmacy,4th year,no,offline,rainy,festival,Court
+male,nursing,1st year,yes,offline,hot,no reason,Court
+female,pharmacy,2nd year,no,online,sunny,sick,Court
+male,bba,2nd year,yes,offline,rainy,festival,Court
+female,b.sc,3rd year,yes,offline,sunny,none,Court
+female,bba,2nd year,yes,offline,sunny,project work,Court
+male,diploma,1st year,yes,offline,hot,no reason,Court
+female,pharmacy,3rd year,yes,offline,rainy,none,Long
+male,b.tech,1st year,no,offline,hot,festival,Moyen
+male,b.sc,3rd year,yes,offline,hot,sick,Court
+female,pharmacy,2nd year,yes,online,hot,none,Long
+female,bca,2nd year,no,offline,hot,none,Moyen
+female,diploma,2nd year,yes,online,rainy,none,Court
+female,b.sc,1st year,yes,online,sunny,none,Court
+male,bba,1st year,yes,offline,rainy,personal work,Long
+female,ba,1st year,yes,offline,sunny,project work,Court
+male,nursing,3rd year,yes,offline,rainy,personal work,Moyen
+female,b.com,2nd year,no,offline,rainy,none,Court
+male,bba,3rd year,yes,offline,hot,none,Long
+female,b.sc,3rd year,no,online,cloudy,none,Moyen
+female,nursing,2nd year,yes,offline,cold,personal work,Court
+male,nursing,2nd year,yes,offline,rainy,no reason,Court
+male,bca,4th year,yes,online,cold,none,Moyen
+male,nursing,2nd year,yes,offline,cloudy,none,Long
+female,b.com,4th year,no,offline,hot,none,Moyen
+female,pharmacy,4th year,yes,offline,sunny,none,Court
+female,bba,4th year,yes,offline,sunny,no reason,Court
+male,b.com,3rd year,no,offline,sunny,none,Court
+male,b.sc,4th year,no,offline,sunny,travel,Moyen
+female,bca,3rd year,yes,online,rainy,project work,Court
+female,pharmacy,3rd year,yes,online,hot,festival,Moyen
+male,bca,4th year,yes,online,cloudy,sick,Long
+female,pharmacy,1st year,yes,offline,sunny,none,Court
+female,diploma,4th year,yes,offline,cold,no reason,Long
+male,diploma,1st year,yes,online,hot,none,Court
+female,nursing,4th year,no,offline,sunny,none,Moyen
+male,bca,3rd year,yes,offline,sunny,no reason,Court
+male,bba,3rd year,yes,offline,cold,travel,Court
+female,b.sc,4th year,no,online,sunny,none,Long
+male,nursing,4th year,yes,offline,rainy,sick,Court
+male,pharmacy,4th year,yes,offline,rainy,none,Moyen
+female,nursing,3rd year,no,offline,cloudy,none,Moyen
+female,b.tech,4th year,yes,offline,cold,none,Court
+male,bba,1st year,yes,offline,cold,festival,Court
+male,ba,4th year,yes,offline,cloudy,no reason,Moyen
+female,pharmacy,1st year,yes,offline,hot,sick,Court
+male,b.tech,3rd year,yes,offline,rainy,travel,Court
+male,b.com,4th year,yes,offline,sunny,none,Court
+female,ba,4th year,yes,online,rainy,none,Court
+female,diploma,1st year,yes,offline,cold,travel,Moyen
+male,diploma,3rd year,yes,offline,hot,sick,Moyen
+male,bba,4th year,yes,offline,cold,none,Moyen
+female,bba,1st year,yes,offline,hot,none,Long
+male,ba,1st year,yes,offline,sunny,festival,Long
+male,diploma,4th year,yes,offline,rainy,festival,Court
+male,pharmacy,4th year,yes,offline,hot,festival,Long
+female,bba,3rd year,no,online,hot,personal work,Court
+female,b.com,3rd year,yes,offline,rainy,personal work,Court
+female,ba,4th year,yes,offline,cloudy,sick,Long
+male,b.tech,4th year,yes,online,cloudy,sick,Court
+female,ba,2nd year,yes,online,sunny,none,Moyen
+male,nursing,4th year,yes,offline,cloudy,none,Long
+male,b.tech,2nd year,yes,offline,cloudy,none,Long
+male,ba,1st year,yes,online,cloudy,personal work,Long
+female,bca,3rd year,yes,offline,cloudy,none,Moyen
+male,b.sc,1st year,yes,offline,cold,none,Moyen
+female,bba,3rd year,yes,online,cloudy,personal work,Long
+male,bca,3rd year,no,offline,cold,none,Court
+female,diploma,4th year,yes,offline,sunny,none,Long
+female,bba,1st year,yes,offline,sunny,none,Long
+female,pharmacy,2nd year,yes,offline,sunny,personal work,Moyen
+male,b.tech,4th year,yes,offline,sunny,no reason,Long
+male,bba,3rd year,no,offline,rainy,none,Moyen
+male,nursing,2nd year,yes,offline,sunny,none,Long
+male,b.sc,3rd year,yes,offline,rainy,festival,Court
+male,bca,2nd year,yes,offline,cold,personal work,Long
+male,pharmacy,3rd year,yes,offline,sunny,none,Long
+female,bba,2nd year,yes,offline,sunny,travel,Court
+male,ba,1st year,yes,online,cloudy,none,Court
+female,b.tech,1st year,yes,offline,cloudy,travel,Court
+female,diploma,1st year,no,offline,hot,none,Moyen
+male,diploma,2nd year,yes,offline,cold,sick,Court
+male,bca,4th year,yes,online,cold,none,Court
+female,b.tech,3rd year,no,offline,hot,no reason,Court
+female,pharmacy,1st year,yes,offline,cold,none,Moyen
+female,nursing,3rd year,no,offline,cloudy,none,Court
+male,bba,3rd year,yes,offline,hot,none,Court
+male,pharmacy,3rd year,yes,offline,hot,none,Moyen
+female,nursing,2nd year,yes,offline,hot,none,Long
+male,nursing,2nd year,yes,offline,sunny,none,Court
+female,b.sc,2nd year,yes,online,cold,none,Court
+male,bca,4th year,yes,offline,cold,none,Long
+male,bca,4th year,yes,offline,cloudy,no reason,Court
+male,b.com,1st year,yes,offline,cloudy,none,Moyen
+female,b.com,1st year,yes,offline,cloudy,none,Court
+female,bba,4th year,no,offline,hot,sick,Court
+female,nursing,2nd year,yes,online,hot,no reason,Court
+female,b.tech,4th year,yes,offline,rainy,none,Long
+female,ba,2nd year,yes,offline,cloudy,festival,Long
+female,bba,1st year,yes,offline,cloudy,festival,Court
+female,diploma,2nd year,yes,offline,rainy,none,Long
+female,nursing,2nd year,no,online,sunny,travel,Court
+female,nursing,3rd year,no,online,rainy,none,Long
+female,bba,3rd year,yes,offline,rainy,none,Long
+female,nursing,1st year,yes,offline,cloudy,project work,Moyen
+female,bba,3rd year,yes,offline,rainy,sick,Court
+female,diploma,2nd year,yes,online,cloudy,personal work,Moyen
+male,diploma,4th year,yes,online,cold,none,Long
+male,b.tech,1st year,yes,offline,hot,none,Long
+male,ba,2nd year,no,online,sunny,festival,Court
+male,ba,2nd year,no,online,hot,travel,Moyen
+female,bba,3rd year,yes,offline,rainy,festival,Court
+female,b.tech,3rd year,no,online,hot,none,Court
+female,b.sc,2nd year,no,online,sunny,none,Moyen
+female,b.tech,3rd year,no,online,sunny,personal work,Long
+male,bba,1st year,yes,offline,hot,travel,Long
+female,diploma,4th year,no,offline,cold,none,Court
+male,pharmacy,4th year,yes,online,sunny,none,Long
+male,b.com,4th year,yes,offline,cold,none,Moyen
+female,b.sc,3rd year,yes,online,hot,none,Long
+male,nursing,4th year,yes,offline,sunny,personal work,Moyen
+female,pharmacy,1st year,yes,offline,rainy,personal work,Court
+male,b.tech,1st year,yes,online,sunny,none,Long
+female,b.tech,4th year,no,offline,rainy,none,Long
+female,b.tech,2nd year,yes,online,rainy,sick,Moyen
+male,ba,4th year,no,offline,rainy,none,Long
+male,ba,1st year,yes,online,cold,no reason,Long
+female,b.tech,4th year,yes,online,sunny,none,Court
+female,bba,2nd year,yes,offline,cloudy,none,Long
+female,pharmacy,1st year,yes,offline,sunny,festival,Long
+female,nursing,4th year,yes,offline,rainy,no reason,Moyen
+male,diploma,4th year,yes,offline,hot,none,Long
+female,bca,1st year,no,offline,cold,none,Moyen
+male,pharmacy,2nd year,yes,offline,sunny,none,Court
+male,bca,1st year,yes,offline,cold,none,Court
+female,bba,1st year,yes,offline,sunny,none,Long
+male,bca,1st year,yes,offline,rainy,none,Long
+male,nursing,3rd year,no,offline,cold,none,Long
+male,diploma,1st year,yes,offline,hot,none,Court
+male,b.sc,1st year,yes,offline,cold,no reason,Court
+female,ba,4th year,no,offline,sunny,none,Court
+male,pharmacy,3rd year,yes,offline,rainy,none,Moyen
+female,pharmacy,3rd year,yes,online,cold,none,Long
+female,bba,4th year,yes,offline,cold,travel,Long
+male,bca,3rd year,yes,online,sunny,none,Court
+female,nursing,1st year,no,online,sunny,none,Long
+female,bba,3rd year,yes,offline,sunny,no reason,Court
+female,diploma,3rd year,yes,offline,cloudy,project work,Long
+male,bca,2nd year,no,offline,sunny,none,Moyen
+male,nursing,3rd year,yes,offline,cloudy,none,Long
+male,b.sc,4th year,yes,offline,cold,none,Long
+male,b.sc,1st year,yes,offline,sunny,sick,Court
+male,b.com,2nd year,no,offline,hot,sick,Long
+female,bba,1st year,yes,offline,hot,none,Court
+female,ba,2nd year,yes,offline,rainy,no reason,Court
+male,ba,3rd year,yes,offline,hot,none,Court
+female,b.com,1st year,yes,online,cold,festival,Moyen
+male,ba,2nd year,yes,offline,rainy,none,Court
+male,bba,4th year,yes,offline,hot,no reason,Long
+male,b.sc,1st year,no,offline,cold,travel,Court
+female,pharmacy,2nd year,yes,offline,rainy,travel,Long
+male,b.tech,3rd year,yes,online,cloudy,none,Court
+female,ba,1st year,yes,online,cold,none,Long
+female,bca,1st year,yes,offline,rainy,none,Moyen
+female,b.tech,3rd year,yes,online,cloudy,none,Court
+female,bba,3rd year,no,offline,cold,none,Court
+female,diploma,2nd year,yes,online,sunny,festival,Court
+female,bba,4th year,no,online,cold,festival,Court
+male,bca,4th year,yes,offline,cloudy,none,Court
+male,b.tech,1st year,yes,offline,rainy,none,Moyen
+male,pharmacy,3rd year,yes,offline,hot,travel,Court
+male,diploma,2nd year,no,offline,sunny,none,Long
+female,b.tech,2nd year,no,online,rainy,project work,Court
+female,pharmacy,3rd year,yes,online,rainy,none,Long
+female,bba,3rd year,yes,offline,cold,none,Long
+male,ba,4th year,yes,offline,cloudy,none,Long
+male,bba,4th year,no,offline,hot,none,Court
+male,b.sc,1st year,no,online,cold,personal work,Moyen
+female,pharmacy,2nd year,no,offline,cold,none,Long
+male,bca,1st year,no,offline,hot,none,Court
+female,b.com,2nd year,yes,online,cloudy,travel,Court
+female,diploma,4th year,yes,offline,cloudy,none,Moyen
+male,diploma,2nd year,yes,offline,cloudy,none,Court
+male,b.com,3rd year,yes,online,cloudy,none,Long
+female,b.sc,1st year,yes,online,rainy,none,Long
+male,bba,4th year,yes,online,hot,none,Court
+female,b.sc,4th year,yes,online,sunny,none,Long
+female,b.com,2nd year,yes,offline,cold,festival,Court
+female,nursing,4th year,yes,offline,sunny,none,Court
+female,nursing,1st year,yes,offline,rainy,festival,Long
+male,b.com,3rd year,yes,offline,hot,none,Court
+male,b.tech,4th year,yes,online,cold,none,Moyen
+female,nursing,4th year,yes,online,rainy,none,Long
+female,bba,3rd year,yes,online,hot,none,Long
+male,bba,1st year,yes,offline,cloudy,none,Moyen
+male,bba,4th year,no,online,hot,project work,Long
+male,b.tech,4th year,yes,online,cloudy,festival,Court
+male,b.tech,2nd year,yes,offline,sunny,none,Court
+female,diploma,1st year,yes,offline,cloudy,project work,Long
+male,ba,4th year,yes,offline,cold,none,Long
+female,ba,3rd year,no,offline,rainy,none,Court
+male,bca,4th year,yes,offline,sunny,none,Long
+female,diploma,2nd year,yes,offline,cold,no reason,Court
+male,bca,2nd year,yes,offline,rainy,none,Court
+female,nursing,4th year,yes,offline,cold,none,Court
+female,bba,3rd year,yes,online,rainy,none,Court
+male,bba,4th year,yes,offline,hot,none,Moyen
+male,ba,2nd year,no,online,hot,personal work,Moyen
+female,b.tech,2nd year,yes,online,rainy,none,Long
+male,pharmacy,4th year,yes,offline,cold,none,Court
+female,diploma,1st year,yes,offline,rainy,none,Court
+female,nursing,4th year,yes,offline,hot,festival,Long
+male,b.com,3rd year,no,online,cold,none,Long
+female,bca,1st year,yes,offline,cold,no reason,Court
+female,b.tech,1st year,yes,offline,sunny,festival,Court
+male,pharmacy,3rd year,no,offline,sunny,none,Court
+female,b.sc,3rd year,yes,online,rainy,none,Long
+male,pharmacy,2nd year,yes,offline,hot,none,Long
+female,nursing,3rd year,yes,offline,cold,none,Long
+female,pharmacy,1st year,no,offline,hot,none,Moyen
+male,pharmacy,1st year,yes,online,cloudy,none,Court
+male,pharmacy,1st year,yes,offline,cloudy,none,Moyen
+male,diploma,4th year,yes,online,rainy,none,Court
+male,b.com,1st year,yes,offline,sunny,travel,Court
+female,bba,2nd year,yes,online,hot,none,Moyen
+male,ba,3rd year,no,offline,rainy,none,Moyen
+male,diploma,4th year,no,offline,sunny,no reason,Court
+male,pharmacy,4th year,yes,offline,rainy,personal work,Moyen
+male,nursing,2nd year,no,online,hot,personal work,Moyen
+female,bca,4th year,yes,offline,hot,project work,Court
+male,ba,2nd year,yes,offline,cloudy,none,Long
+female,diploma,3rd year,yes,offline,cloudy,none,Moyen
+male,ba,3rd year,no,offline,rainy,none,Court
+female,pharmacy,4th year,yes,offline,cold,travel,Court
+male,pharmacy,4th year,yes,online,cold,none,Moyen
+female,bba,4th year,no,offline,sunny,no reason,Court
+male,bca,3rd year,yes,online,sunny,none,Court
+female,pharmacy,3rd year,yes,offline,rainy,travel,Long
+female,b.com,2nd year,no,offline,cold,none,Long
+female,bca,1st year,yes,offline,sunny,none,Moyen
+female,b.tech,2nd year,yes,offline,hot,none,Court
+female,b.sc,3rd year,yes,offline,cold,travel,Court
+female,nursing,3rd year,yes,offline,cold,none,Long
+female,ba,1st year,yes,online,rainy,none,Court
+male,b.tech,4th year,yes,offline,cold,personal work,Court
+female,bca,2nd year,no,offline,hot,none,Moyen
+male,nursing,2nd year,yes,offline,hot,personal work,Court
+female,nursing,2nd year,yes,online,sunny,personal work,Long
+female,b.sc,4th year,yes,online,rainy,none,Long
+male,b.sc,3rd year,yes,offline,hot,festival,Long
+male,b.com,1st year,yes,offline,sunny,none,Court
+male,nursing,1st year,yes,offline,rainy,none,Moyen
+male,b.com,3rd year,yes,offline,sunny,none,Court
+female,b.sc,1st year,yes,offline,hot,no reason,Court
+male,bba,1st year,no,online,cold,none,Moyen
+female,nursing,4th year,yes,offline,rainy,none,Court
+female,ba,4th year,yes,offline,cold,travel,Court
+male,b.sc,3rd year,no,offline,hot,none,Moyen
+female,ba,4th year,yes,offline,rainy,sick,Court
+female,diploma,4th year,yes,online,hot,no reason,Court
+male,bca,4th year,yes,offline,rainy,sick,Moyen
+male,ba,1st year,no,offline,sunny,none,Court
+female,pharmacy,3rd year,yes,offline,cold,none,Long
+male,nursing,2nd year,yes,online,cloudy,none,Court
+male,bba,1st year,yes,online,rainy,sick,Court
+female,pharmacy,3rd year,yes,offline,sunny,none,Moyen
+male,bca,1st year,no,online,rainy,none,Court
+male,b.sc,1st year,no,offline,cold,none,Court
+female,nursing,4th year,yes,offline,rainy,travel,Court
+female,ba,3rd year,yes,offline,cold,none,Long
+female,b.sc,3rd year,no,offline,cloudy,sick,Court
+female,b.com,1st year,yes,offline,cold,project work,Court
+female,pharmacy,4th year,yes,offline,cold,sick,Court
+female,ba,3rd year,yes,offline,rainy,festival,Court
+male,bca,2nd year,yes,offline,sunny,none,Moyen
+female,ba,2nd year,yes,offline,rainy,none,Court
+female,b.tech,1st year,yes,offline,hot,none,Court
+female,bba,3rd year,yes,offline,cloudy,none,Court
+male,diploma,2nd year,no,online,hot,travel,Moyen
+female,nursing,3rd year,yes,offline,rainy,personal work,Court
+female,diploma,1st year,yes,online,cloudy,none,Court
+male,b.tech,1st year,yes,online,sunny,no reason,Moyen
+male,b.com,3rd year,yes,online,cold,personal work,Long
+female,ba,3rd year,yes,offline,hot,festival,Long
+female,pharmacy,1st year,no,offline,sunny,sick,Long
+male,pharmacy,4th year,no,offline,cloudy,festival,Court
+male,pharmacy,1st year,yes,offline,cloudy,none,Moyen
+female,b.sc,1st year,yes,online,cloudy,none,Court
+female,b.tech,4th year,no,online,cloudy,project work,Moyen
+male,bca,2nd year,yes,offline,sunny,sick,Court
+male,b.com,2nd year,no,offline,hot,project work,Court
+female,nursing,3rd year,yes,offline,rainy,none,Moyen
+male,bba,1st year,yes,online,sunny,none,Long
+male,b.com,2nd year,yes,online,cold,no reason,Court
+male,b.tech,3rd year,no,offline,sunny,none,Moyen
+female,b.com,2nd year,yes,online,sunny,sick,Moyen
+female,pharmacy,2nd year,no,offline,rainy,festival,Court
+male,b.tech,3rd year,yes,offline,cold,sick,Moyen
+male,diploma,3rd year,yes,online,cloudy,sick,Court
+female,ba,2nd year,no,online,sunny,none,Long
+male,bca,3rd year,yes,online,cold,none,Court
+male,b.sc,4th year,yes,online,cloudy,none,Moyen
+female,bca,1st year,yes,offline,cold,sick,Moyen
+female,nursing,2nd year,no,online,cold,none,Long
+female,nursing,1st year,no,offline,sunny,none,Long
+male,b.com,2nd year,no,offline,rainy,personal work,Court
+male,bba,4th year,yes,offline,sunny,none,Court
+female,diploma,2nd year,yes,offline,cloudy,none,Long
+male,b.com,1st year,yes,online,cloudy,none,Long
+female,ba,3rd year,yes,offline,sunny,sick,Court
+female,bca,3rd year,yes,online,hot,travel,Court
+female,b.com,3rd year,yes,online,cold,none,Moyen
+female,diploma,2nd year,yes,offline,cloudy,none,Court
+female,ba,3rd year,yes,offline,cloudy,project work,Court
+male,ba,4th year,yes,offline,rainy,sick,Moyen
+female,bba,3rd year,yes,offline,rainy,none,Moyen
+female,b.com,2nd year,yes,online,cloudy,none,Long
+female,ba,1st year,yes,offline,cloudy,none,Long
+female,ba,2nd year,yes,offline,sunny,personal work,Court
+male,b.sc,4th year,yes,offline,cold,none,Long
+female,pharmacy,2nd year,yes,offline,sunny,personal work,Moyen
+female,pharmacy,2nd year,yes,offline,cloudy,none,Court
+male,b.sc,1st year,yes,online,cold,none,Long
+female,b.sc,2nd year,yes,offline,sunny,festival,Court
+male,bca,4th year,yes,offline,cold,none,Moyen
+female,diploma,4th year,yes,offline,sunny,none,Moyen
+female,pharmacy,1st year,yes,offline,sunny,sick,Court
+male,diploma,2nd year,yes,offline,rainy,none,Court
+male,pharmacy,2nd year,yes,online,hot,travel,Court
+male,bba,1st year,yes,online,cloudy,none,Moyen
+male,bca,2nd year,yes,offline,sunny,none,Long
+male,pharmacy,2nd year,no,offline,cloudy,project work,Court
+female,b.com,1st year,no,offline,cloudy,festival,Court
+male,bca,2nd year,yes,offline,cloudy,none,Long
+female,bca,1st year,yes,offline,cloudy,project work,Court
+female,ba,4th year,yes,offline,rainy,festival,Moyen
+female,b.com,1st year,yes,offline,cloudy,none,Long
+female,diploma,1st year,no,offline,cloudy,none,Moyen
+female,bba,2nd year,yes,offline,hot,none,Long
+male,ba,3rd year,yes,online,cloudy,project work,Court
+female,bba,1st year,yes,offline,rainy,travel,Long
